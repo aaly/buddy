@@ -5,3 +5,5 @@ components/
 .cache/
 dependencies.lock
 managed_components/
+main/creds.h
+partition_table/
