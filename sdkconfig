@@ -2365,6 +2365,12 @@ CONFIG_ESP_MODEM_C_API_STR_MAX=128
 # end of ESP Secure Cert Manager
 
 #
+# ESP WebSocket client
+#
+# CONFIG_ESP_WS_CLIENT_ENABLE_DYNAMIC_BUFFER is not set
+# end of ESP WebSocket client
+
+#
 # jsmn
 #
 # CONFIG_JSMN_PARENT_LINKS is not set

@@ -3,5 +3,5 @@ idf_component_register(
     "services/Bluetooth.cpp" "services/ServiceManager.cpp" "services/Display.cpp"
     "services/IMU.cpp" "lib/KalmanFilter/KalmanFilter.cpp"
     INCLUDE_DIRS "lib"
-    REQUIRES freertos arduino efuse
+    REQUIRES freertos arduino efuse esp_websocket_client
 )
